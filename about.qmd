@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+I'm a postdoctoral researcher at the University of Arizona.
