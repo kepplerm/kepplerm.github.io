@@ -1,7 +1,21 @@
 ---
-title: "Welcome to my webpage!"
+title: "Miriam Keppler" # if using a built-in template, this title appears under your photo
+image: media/portrait.jpg # great spot for your professional headshot :)
+toc: false # disable table of contents for this page
+about:
+  template: jolla # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  image-shape: round
+  image-width: 20em
+  links: # create buttons; need to supply a `text` and/or `icon`, as well as `href` (the URL or file path that your button redirects to)
+    - icon: linkedin # optionally include a FontAwesome icon
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kepplerm/
+    - icon: github
+      text: GitHub
+      href: https://github.com/kepplerm
+    - icon: envelope
+      text: Email
+      href: mailto:keppler@arizona.edu
 ---
 
-This is a Quarto website - used as a test...
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# ~ landing page content / text omitted for brevity ~
