@@ -2,5 +2,14 @@
 title: "Projects"
 ---
 
-#
-Projects that I've been working on.
+
+#### Aspera data reduction pipeline
+
+In my current position, I am developing a data reduction pipeline for the Aspera smallsat mission.
+Check out our newest paper here [link to SPIE proceeding]. [Add mission patch]
+
+#### Aspera instrument simulator
+
+#### Airglow analysis project
+
+#### Protoplanets and protoplanetary disks
