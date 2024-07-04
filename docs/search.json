@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I’m a postdoctoral researcher at the University of Arizona."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my webpage!",
+    "title": "Miriam Keppler",
     "section": "",
-    "text": "This is a Quarto website - used as a test.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Astronomer • Data Scientist • Expert for space-based observations"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Aspera data reduction pipeline\nIn my current position, I am developing a data reduction pipeline for the Aspera smallsat mission. Check out our newest paper here [link to SPIE proceeding]. [Add mission patch]\n\n\nAspera instrument simulator\n\n\nAirglow analysis project\n\n\nProtoplanets and protoplanetary disks"
+  },
+  {
+    "objectID": "projects.html#dndr",
+    "href": "projects.html#dndr",
+    "title": "Projects",
+    "section": "",
+    "text": "Perhaps unsurprisingly for someone of my professional interests, I am a huge Dungeons & Dragons () fan in my free time. To blend my personal and professional interests I’ve created this package to serve any other people in the R / DnD Venn Diagram intersection. It allows for easy rolling of dice, creation of character statistics, and (for GMs) encounter balancing. This package is also a fun chance for me to practice my coding skills in a risk-free environment. A version of this package is available on CRAN here.\nTo help showcase some of the functions in dndR I’ve created a standalone Quarto website that is similar to a vignette. Feel free to check it out!"
   }
 ]
