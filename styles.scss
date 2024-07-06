@@ -9,6 +9,8 @@ $gray: #64605f;
 $purple: #9158A2;
 $orange: #ad7237;
 
+$my-font: Nunito, sans-serif;
+
 // Base document colors
 /*
 $navbar-bg: $cream; // navbar
@@ -31,5 +33,7 @@ h1, h2 {
 }
 
 .title {
-  color: maroon;
+  color: darkslategray;
+  font-weight: 700;
+  letter-spacing: 2px;
 }
