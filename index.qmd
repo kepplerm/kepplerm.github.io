@@ -1,9 +1,9 @@
 ---
-title: "Miriam Keppler" # if using a built-in template, this title appears under your photo
+title: "Dr. Miriam Keppler" # if using a built-in template, this title appears under your photo
 image: media/portrait.jpg # great spot for your professional headshot :)
 toc: false # disable table of contents for this page
 about:
-  template: jolla # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
   image-shape: round
   image-width: 20em
   links: # create buttons; need to supply a `text` and/or `icon`, as well as `href` (the URL or file path that your button redirects to)
@@ -18,4 +18,14 @@ about:
       href: mailto:keppler@arizona.edu
 ---
 
-Astronomer • Data Scientist • Expert for space-based observations
+## Welcome!
+I am an astronomer and data scientist passionate about space-based observations and remote sensing.
+Currently, I am a postdoctoral researcher at the University of Arizona and involved into the development of the [Aspera space mission](https://news.arizona.edu/news/uarizona-will-lead-nasa-space-telescope-mission-reveal-unseen-dynamic-lives-galaxies).
+I have obtained my PhD from the University of Heidelberg working on multi-wavelength observations of planet-forming disks. I am passionate about data science, software development and data management in diverse applications and contexts.
+
+
+
+
+### Skills & Interests
+
+{{< fa screwdriver-wrench >}} Coding -- {{< fa rocket >}} Space missions -- {{< fa star >}} Astronomy -- {{< fa earth-americas >}} Earth observation -- {{< fa chart-simple >}} Data analysis -- {{< fa person-hiking >}} Backpacking -- {{< fa music >}} Playing piano
