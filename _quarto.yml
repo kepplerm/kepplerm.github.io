@@ -8,7 +8,6 @@ website:
     right: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: projects.qmd
         text: Projects
       - href: CV/CV_MKeppler.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
