@@ -19,7 +19,7 @@ The goal of the mission is to detect and map gas in the vicinity of nearby galax
 The Aspera instrument consists of two parallel long-slit spectrographs that will allow to sample the spatial distribution of gas around galaxies by placing the slits subsequently at various fields around a target galaxy.
 I am leading the development of a data processing pipeline for Aspera that will calibrate individual observations, and subsequently reconstruct a three-dimensional hyperspectral data cube by combining all observations obtained for each of our target galaxies.
 The data products exported by the pipeline will be made publicly available through the Barbara Mikulski Archive for Space Telescopes (MAST).
-A publication with an overview of the pipeline design is currently in press.
+A proceeding with an overview of the pipeline design can be found [here](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13101/3017883/Development-of-a-data-reduction-pipeline-for-the-Aspera-SmallSat/10.1117/12.3017883.short).
 :::
 
 ::: {.column width="30%"}
@@ -62,16 +62,16 @@ I am analysing geocoronal foreground emission lines from the archival data of FU
 :::
 
 
-#### Tracing planet formation with multi-wavelength observations
+#### Tracing planet formation and its environment with multi-wavelength observations
 ::: columns
 
 ::: {.column width="35%"}
-![](media/eso1821a_rot.png){width=90% fig-align="center"}
+![](media/ggtau.jpg){width=90% fig-align="center"}
 :::
 
 ::: {.column width="65%"}
 Planets are formed within structures of dust and gas surrounding newly born stars, so-called protoplanetary disks.
 During my PhD, I have focused on the observations of direct and indirect traces of planet formation outside of our Solar System. To this goal, I have employed observations of protoplanetary disks with various different techniques (e.g., imaging, polarimetry, spectroscopy, interferometry) at multiple different wavelengths from the optical to the sub-millimeter regime.
-In 2018, our group has detected the [first bona-fide direct image of a forming planet](https://www.eso.org/public/news/eso1821/) within its parental protoplanetary disk, PDS 70 b. In a [follow-up work]{https://arxiv.org/abs/1902.07639}, we have investigated the disk structure and kinematics of the protoplanetary system PDS 70 using sub-millimeter interferometric observations. In addition, we have studied the [highly structured dust disk](https://www.aanda.org/2020-highlights/1868-gap-shadows-spirals-and-streamers-sphere-observations-of-binary-disk-interactions-in-gg-tauri-a-keppler-et-al) at high spatial resolution around a multiple star system called GG Tau A.
+In 2018, our group has detected the first bona-fide direct image of a [forming planet](https://www.eso.org/public/news/eso1821/) within its parental protoplanetary disk, PDS 70 b. In a [follow-up work](https://arxiv.org/abs/1902.07639), we have investigated the disk structure and kinematics of the protoplanetary system PDS 70 using sub-millimeter interferometric observations. In addition, we have studied the [highly structured dust disk](https://www.aanda.org/2020-highlights/1868-gap-shadows-spirals-and-streamers-sphere-observations-of-binary-disk-interactions-in-gg-tauri-a-keppler-et-al) at high spatial resolution around a multiple star system called GG Tau A.
 :::
 :::
